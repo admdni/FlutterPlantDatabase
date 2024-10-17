@@ -1,16 +1,8 @@
-# cardslotgames
+![plantapp](https://github.com/user-attachments/assets/217839fc-3a8c-498d-9c92-298f1047d295)
 
-A new Flutter project.
 
-## Getting Started
+# Flutter Plant Database App
 
-This project is a starting point for a Flutter application.
+Flutter app that provides detailed information about plants
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
