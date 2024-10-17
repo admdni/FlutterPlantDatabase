@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
   TextEditingController searchController = TextEditingController();
   int page = 1;
 
-  final String apiKey = 'hIvLtCtAARMbRpHCYBpyYqVjoovJPaMOC3F0X2pVb3c';
+  final String apiKey = '';
 
   @override
   void initState() {
