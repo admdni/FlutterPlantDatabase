@@ -32,7 +32,7 @@ class _PhotosScreenState extends State<PhotosScreen> {
   String errorMessage = '';
   String currentCategory = 'plants';
   final String apiKey =
-      '0LlqmaPhM2j4BeFuTjAE5KabZhTpc1TlgNdAzBJEKEk'; // Unsplash API anahtarınız
+      ''; // Unsplash API anahtarınız
 
   @override
   void initState() {
